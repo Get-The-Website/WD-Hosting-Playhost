@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2024 - Playhost by Designesia
+  * © Copyright 2024 - Playarmy by Designesia
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
